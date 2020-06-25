@@ -1,0 +1,24 @@
+{
+"products":[
+[{"id":1,"name":"Crown of thorns starfish","categori":"Fuscia"},
+{"id":2,"name":"Flicker, field","categori":"Crimson"},
+{"id":3,"name":"Cormorant, neotropic","categori":"Fuscia"},
+{"id":4,"name":"Wolf, common","categori":"Purple"},
+{"id":5,"name":"Macaque, rhesus","categori":"Blue"},
+{"id":6,"name":"Common waterbuck","categori":"Aquamarine"},
+{"id":7,"name":"House crow","categori":"Blue"},
+{"id":8,"name":"Pelican, brown","categori":"Pink"},
+{"id":9,"name":"Capybara","categori":"Purple"},
+{"id":10,"name":"Bald eagle","categori":"Pink"},
+{"id":11,"name":"Flycatcher, tyrant","categori":"Mauv"},
+{"id":12,"name":"Bettong, brush-tailed","categori":"Turquoise"},
+{"id":13,"name":"Butterfly, tropical buckeye","categori":"Turquoise"},
+{"id":14,"name":"Darter, african","categori":"Maroon"},
+{"id":15,"name":"Creeper, black-tailed tree","categori":"Khaki"},
+{"id":16,"name":"Civet cat","categori":"Violet"},
+{"id":17,"name":"Black and white colobus","categori":"Green"},
+{"id":18,"name":"Tropical buckeye butterfly","categori":"Pink"},
+{"id":19,"name":"African clawless otter","categori":"Yellow"},
+{"id":20,"name":"Common shelduck","categori":"Khaki"}]
+]
+}
