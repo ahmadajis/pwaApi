@@ -1,6 +1,6 @@
 {
-"products":[
-[{"id":1,"name":"Crown of thorns starfish","categori":"Fuscia"},
+  "products": [
+{"id":1,"name":"Crown of thorns starfish","categori":"Fuscia"},
 {"id":2,"name":"Flicker, field","categori":"Crimson"},
 {"id":3,"name":"Cormorant, neotropic","categori":"Fuscia"},
 {"id":4,"name":"Wolf, common","categori":"Purple"},
@@ -19,6 +19,6 @@
 {"id":17,"name":"Black and white colobus","categori":"Green"},
 {"id":18,"name":"Tropical buckeye butterfly","categori":"Pink"},
 {"id":19,"name":"African clawless otter","categori":"Yellow"},
-{"id":20,"name":"Common shelduck","categori":"Khaki"}]
-]
+{"id":20,"name":"Common shelduck","categori":"Khaki"}
+  ]
 }
